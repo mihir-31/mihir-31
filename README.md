@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mihir-31
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning AWS console, java ,python 
-- 💞️ I’m looking to collaborate on upcoming my new projects 
+- 👀 I’m interested in cloud computing.
+- 🌱 I’m currently learning AWS console, java ,MySQL. 
+- 💞️ I’m looking to collaborate on upcoming my new projects .
 - 📫 How to reach me mihirsc31@gmail.com 
 
 <!---
