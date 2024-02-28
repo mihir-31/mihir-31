@@ -1,7 +1,7 @@
  LinkedIn - https://www.linkedin.com/in/mihir-chaudhari-6063b720a/
 - 👋 Hi, I’m @mihir-31
 - 👀 I’m interested in cloud computing.
-- 🌱 I’m currently learning AWS console, java ,MySQL. 
+- 🌱 I’m currently working on Java REST API,Spring Framework ,PLSQL. 
 - 💞️ I’m looking to collaborate on upcoming my new projects .
 - 📫 How to reach me mihirsc31@gmail.com 
 
